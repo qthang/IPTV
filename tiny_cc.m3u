@@ -1,0 +1,230 @@
+#EXTM3U Thinhng
+
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/3rhT6gf.jpg",VTV1 HD (8 Mbps)
+udp://@225.1.2.249:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/da16UvQ.jpg",VTV2 HD (8 Mbps)
+udp://@225.1.2.13:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/XKcHKkG.jpg",VTV3 HD (8 Mbps)
+udp://@225.1.2.247:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/jhi9lng.jpg",VTV5 HD (8 Mbps)
+udp://@225.1.1.131:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/LHhKsZe.jpg",VTV6 HD (8 Mbps)
+udp://@225.1.2.245:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/p6GLQSF.jpg", HTV3 (4 Mbps)
+udp://@225.1.1.178:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/NNdWIZd.png",VTC1 HD (4Mbps)
+udp://@225.1.2.254:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/joCF66H.png",VTC3 HD (4Mbps)
+udp://@225.1.2.251:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/6l0zyhK.jpg",Today TV - VTC 7 (2.5 Mbps)
+udp://@225.1.2.197:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/OmDSht1.jpg",HTV7 HD (8 Mbps)
+udp://@225.1.1.192:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/SwDWZhL.jpg",HTV9 HD (8 Mbps)
+udp://@225.1.1.190:30120
+
+
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/rVDBl30.png",Asian Food Channel HD (8 Mbps)
+udp://@225.1.1.198:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/RMD10J5.jpg",BBC Earth HD (8 Mbps)
+udp://@225.1.2.24:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/1xJIdif.png",Discovery Asia HD (8 Mbps)
+udp://@225.1.2.223:30120
+
+
+
+
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/OwHrcW9.png",HBO HD (8 Mbps)
+udp://@225.1.2.233:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/ZcAkpwZ.png",Fox Movies HD (8 Mbps)
+udp://@225.1.2.239:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png",Warner Bros TV HD (8 Mbps)
+udp://@225.1.1.139:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/QYcstYI.png",Fox Life HD (8 Mbps)
+udp://@225.1.2.237:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/WchnF0b.png",AXN HD (8 Mbps)
+udp://@225.1.2.225:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/lSRE3Us.png",Discovery Channel HD (4 Mbps)
+udp://@225.1.1.238:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/WD7jyzr.png",National Geographic HD (8 Mbps)
+udp://@225.1.2.235:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/P7qa2xn.png",Animal Planet HD (8 Mbps)
+udp://@225.1.1.231:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/AbXVXSz.png",MAX by HBO HD (8 Mbps)
+udp://@225.1.2.86:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/riDDx0P.png",KIX HD (8 Mbps)
+udp://@225.1.2.144:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png",RED by HBO HD (8 Mbps)
+udp://@225.1.1.93:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/tU01ZZG.png",Cartoon Network HD (6 Mbps)
+udp://@225.1.2.231:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/Dob7q7X.png",Disney Channel HD (8 Mbps)
+udp://@225.1.2.158:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/tmfFaYK.png",Cinema World HD (8 Mbps)
+udp://@225.1.1.142:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/sFfL06d.jpg",Blue Ant Entertainment HD (8 Mbps)
+udp://@225.1.1.203:30120
+#EXTINF:0 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/Rq0rnBa.jpg",Blue Ant Extreme HD (8 Mbps)
+udp://@225.1.1.204:30120
+
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/qtq11zj.png",FOX HD (8 Mbps)
+udp://@225.1.1.51:30120
+
+
+
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/Pg9utNG.jpg",Fox Sports HD (8 Mbps)
+udp://@225.1.2.229:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/aq1YxiH.jpg",Fox Sports 2 HD (8 Mbps)
+udp://@225.1.1.141:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/rKrZBvy.png",Fox Sports 3 HD (8 Mbps)
+udp://@225.1.2.242:30120
+
+
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/O2GYqbH.png",Outdoor Channel HD (8 Mbps)
+udp://@225.1.2.215:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/PE4r5T4.jpg",BBC Lifestyle (2.5 Mbps)
+udp://@225.1.2.52:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/8qRooa4.png",TLC HD (8 Mbps)
+udp://@225.1.1.236:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/FN6haTo.png",Disney Junior (2.7 Mbps)
+udp://@225.1.1.233:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/ayBXcMu.png",Da Vinci HD (8 Mbps)
+udp://@225.1.1.197:30120
+
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/Qnnk1rc.png",Fashion TV HD (8 Mbps)
+udp://@225.1.2.227:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/Qnnk1rc.png",Fashion TV 4K (12 Mbps)
+udp://@225.1.1.20:30120
+
+
+
+
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/3rhT6gf.jpg",VTV1 HD (4 Mbps)
+udp://@225.1.2.248:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/da16UvQ.jpg",VTV2 HD (4 Mbps)
+udp://@225.1.2.14:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/XKcHKkG.jpg",VTV3 HD (4 Mbps)
+udp://@225.1.2.246:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/jhi9lng.jpg",VTV5 HD (4 Mbps)
+udp://@225.1.1.129:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/LHhKsZe.jpg",VTV6 HD (4 Mbps)
+udp://@225.1.2.244:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/OmDSht1.jpg",HTV7 HD (4 Mbps)
+udp://@225.1.1.191:30120
+#EXTINF:-1 group-title="Kênh Việt Nam" tvg-logo="https://i.imgur.com/SwDWZhL.jpg",HTV9 HD (4 Mbps)
+udp://@225.1.1.189:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/rVDBl30.png",Asian Food Channel HD (4 Mbps)
+udp://@225.1.2.98:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/WchnF0b.png",AXN HD (4 Mbps)
+udp://@225.1.2.224:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/RMD10J5.jpg",BBC Earth HD (4 Mbps)
+udp://@225.1.2.25:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/1xJIdif.png",Discovery Asia HD (4 Mbps)
+udp://@225.1.2.222:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/WD7jyzr.png",National Geographic HD (4 Mbps)
+udp://@225.1.2.234:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/OwHrcW9.png",HBO HD (4 Mbps)
+udp://@225.1.2.232:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/qtq11zj.png",FOX HD (4 Mbps)
+udp://@225.1.1.52:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/QYcstYI.png",Fox Life HD (4 Mbps)
+udp://@225.1.2.236:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png",Warner Bros TV HD (4 Mbps)
+udp://@225.1.1.140:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/riDDx0P.png",KIX HD (4 Mbps)
+udp://@225.1.2.145:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/AbXVXSz.png",MAX by HBO HD (4 Mbps)
+udp://@225.1.2.91:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/ZcAkpwZ.png",Fox Movies HD (4 Mbps)
+udp://@225.1.2.238:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/tmfFaYK.png",Cinema World HD (4 Mbps)
+udp://@225.1.1.143:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/O2GYqbH.png",Outdoor Channel HD (4 Mbps)
+udp://@225.1.2.214:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/sFfL06d.jpg",Blue Ant Entertainment HD (4 Mbps)
+udp://@225.1.1.175:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/Rq0rnBa.jpg",Blue Ant Extreme HD (4 Mbps)
+udp://@225.1.1.176:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png",RED by HBO HD (4 Mbps)
+udp://@225.1.1.89:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/tU01ZZG.png",Cartoon Network HD (4 Mbps)
+udp://@225.1.2.230:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/Dob7q7X.png",Disney Channel HD (4 Mbps)
+udp://@225.1.2.160:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/8qRooa4.png",TLC HD (4 Mbps)
+udp://@225.1.1.237:30120
+
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/P7qa2xn.png",Animal Planet HD (4 Mbps)
+udp://@225.1.1.232:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/hK4fZFv.jpg",BBC World News (2.5 Mbps)
+udp://@225.1.2.74:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/OriXlbY.png",NHK World HD (4 Mbps)
+udp://@225.1.1.47:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/U8KAbX9.png",CNN (4 Mbps)
+udp://@225.1.1.242:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/MfIkalS.jpg",DW HD (4 Mbps)
+udp://@225.1.1.46:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/2kBizs6.png",France 24 (2.5 Mbps)
+udp://@225.1.2.211:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/0d97TvK.png",TV5Monde Asia (2.5 Mbps)
+udp://@225.1.1.200:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/KuyK48U.png",CNBC (4 Mbps)
+udp://@225.1.1.227:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/LqPoK9e.png",Channel News Asia (2.5 Mbps)
+udp://@225.1.1.202:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/knJ98D2.png",Arirang (2.5 Mbps)
+udp://@225.1.1.201:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/rVbhSSV.png",S GEM HD (6 Mbps)
+udp://@225.1.1.60:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/O46gy21.png",Australia Plus (4 Mbps)
+udp://@225.1.2.21:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/lj7DCEp.png",Baby TV HD (8 Mbps)
+udp://@225.1.2.146:30120
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/IskSVT9.png",Channel [V] HD (6 Mbps)
+udp://@225.1.1.188:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/yum7wFc.png",MTV (2.5 Mbps)
+udp://@225.1.1.245:30120
+
+
+
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/lj7DCEp.png",Baby TV HD (4 Mbps)
+udp://@225.1.2.147:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/IskSVT9.png",Channel [V] HD (4 Mbps)
+udp://@225.1.1.187:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/ayBXcMu.png",Da Vinci HD (4 Mbps)
+udp://@225.1.2.253:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/NucIHWu.png",Diva (3.5 Mbps)
+udp://@225.1.1.199:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/Qnnk1rc.png",Fashion TV HD (4 Mbps)
+udp://@225.1.2.226:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/Pg9utNG.jpg",Fox Sports HD (4 Mbps)
+udp://@225.1.2.228:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/aq1YxiH.jpg",Fox Sports 2 HD (4 Mbps)
+udp://@225.1.1.108:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/rKrZBvy.png",Fox Sports 3 HD (4 Mbps)
+udp://@225.1.2.243:30120
+#EXTINF:-1 group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/rVbhSSV.png",S GEM HD (4 Mbps)
+udp://@225.1.1.17:30120
